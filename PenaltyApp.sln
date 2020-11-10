@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenaltyApp.Android", "PenaltyApp\PenaltyApp.Android\PenaltyApp.Android.csproj", "{0C93C77B-F484-4483-944E-0D819899FFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenaltyApp", "PenaltyApp\PenaltyApp\PenaltyApp.csproj", "{033D97DE-B893-49AA-B7F5-53B7D1AF206C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C93C77B-F484-4483-944E-0D819899FFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C93C77B-F484-4483-944E-0D819899FFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C93C77B-F484-4483-944E-0D819899FFCF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0C93C77B-F484-4483-944E-0D819899FFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C93C77B-F484-4483-944E-0D819899FFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C93C77B-F484-4483-944E-0D819899FFCF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{033D97DE-B893-49AA-B7F5-53B7D1AF206C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033D97DE-B893-49AA-B7F5-53B7D1AF206C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033D97DE-B893-49AA-B7F5-53B7D1AF206C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{033D97DE-B893-49AA-B7F5-53B7D1AF206C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033D97DE-B893-49AA-B7F5-53B7D1AF206C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033D97DE-B893-49AA-B7F5-53B7D1AF206C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE05F8D-3F76-4304-9BA4-00F43974C37F}
+	EndGlobalSection
+EndGlobal

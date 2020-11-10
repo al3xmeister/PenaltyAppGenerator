@@ -1,0 +1,14 @@
+D:\PenaltyApp\PenaltyApp\PenaltyApp\bin\Debug\netstandard2.0\PenaltyApp.deps.json
+D:\PenaltyApp\PenaltyApp\PenaltyApp\bin\Debug\netstandard2.0\PenaltyApp.dll
+D:\PenaltyApp\PenaltyApp\PenaltyApp\bin\Debug\netstandard2.0\ref\PenaltyApp.dll
+D:\PenaltyApp\PenaltyApp\PenaltyApp\bin\Debug\netstandard2.0\PenaltyApp.pdb
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\PenaltyApp.csprojAssemblyReference.cache
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\PenaltyApp.AssemblyInfoInputs.cache
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\PenaltyApp.AssemblyInfo.cs
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\PenaltyApp.csproj.CoreCompileInputs.cache
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\PenaltyApp.dll
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\ref\PenaltyApp.dll
+D:\PenaltyApp\PenaltyApp\PenaltyApp\obj\Debug\netstandard2.0\PenaltyApp.pdb
